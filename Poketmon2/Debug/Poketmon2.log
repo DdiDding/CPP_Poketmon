@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Project_VS2022\CppConsole\Poketmon2\main.cpp(252,38): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Project_VS2022\CppConsole\Poketmon2\main.cpp(2282,20): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Project_VS2022\CppConsole\Poketmon2\main.cpp(2540,13): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Project_VS2022\CppConsole\Poketmon2\main.cpp(2541,24): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Project_VS2022\CppConsole\Poketmon2\main.cpp(2546,13): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Project_VS2022\CppConsole\Poketmon2\main.cpp(2547,24): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Poketmon.cpp
+  Skill.cpp
+  TItle.cpp
+C:\Project_VS2022\CppConsole\Poketmon2\TItle.cpp(2,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  코드를 생성하고 있습니다...
+  Poketmon2.vcxproj -> C:\Project_VS2022\CppConsole\Poketmon2\Debug\Poketmon2.exe

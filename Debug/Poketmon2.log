@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\owner\desktop\c\게임 프로젝트\poketmon2\main.cpp(252): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\owner\desktop\c\게임 프로젝트\poketmon2\main.cpp(2282): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\owner\desktop\c\게임 프로젝트\poketmon2\main.cpp(2540): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\owner\desktop\c\게임 프로젝트\poketmon2\main.cpp(2541): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\owner\desktop\c\게임 프로젝트\poketmon2\main.cpp(2546): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\owner\desktop\c\게임 프로젝트\poketmon2\main.cpp(2547): warning C4244: '*=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Poketmon2.vcxproj -> C:\Users\Owner\Desktop\C\게임 프로젝트\Poketmon2\Debug\Poketmon2.exe
